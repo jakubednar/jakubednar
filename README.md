@@ -1,6 +1,6 @@
 #### Hello there fellow programmers 👨‍💻,
 ##### - 🌎 I'm from Slovakia
-##### - 🎓 I'm IT student at [The Secondary school of technical and electrical engineering in Prešov](https://spse-po.sk/)
+##### - 🎓 I'm student at [The Secondary school of technical and electrical engineering in Prešov](https://spse-po.sk/)
 ##### - 🎮 I like to play video games 
 ##### - 📫 You can contact me with the links below :
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jakubednar@gmail.com)
