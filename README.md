@@ -7,4 +7,13 @@
 [![Instagram](https://img.shields.io/badge/-INSTAGRAM-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/edgy.kubko/)
 [![Discord](https://img.shields.io/badge/-DISCORD%20ID%20%238716-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/)
 ---
+#### Tech I use:
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat&logo=typescript)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
+---
 [![Jakub's github stats](https://github-readme-stats.vercel.app/api?username=jakubednar)](https://github.com/jakubednar)
