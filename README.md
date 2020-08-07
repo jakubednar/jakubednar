@@ -22,9 +22,6 @@
 ![Mariadb](https://img.shields.io/badge/-Mariadb-000000?style=flat-square&logo=mariadb)
 ![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git)
 ![Laravel](https://img.shields.io/badge/-Laravel-000000?style=flat-square&logo=laravel)
-![Linux](https://img.shields.io/badge/-Linux-000000?style=flat-square&logo=linux)
-![Windows](https://img.shields.io/badge/-Windows-000000?style=flat-square&logo=windows)
-![Trello](https://img.shields.io/badge/-Trello-000000?style=flat-square&logo=trello)
-![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=github)
+
 ---
 [![Jakub's github stats](https://github-readme-stats.vercel.app/api?username=jakubednar)](https://github.com/jakubednar)
